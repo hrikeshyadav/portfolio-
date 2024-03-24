@@ -465,6 +465,7 @@ span{
 
 .footer-text p{
     font-size: 1.6rem;
+    
 }
 
 .footer-iconTop a{
@@ -676,6 +677,12 @@ textarea {
     .input-box .e-mail {
         width: 48%;
     }
+}
+
+
+.project_h1_center{
+    color: #0ef;
+    text-align: center;
 }
 
 
